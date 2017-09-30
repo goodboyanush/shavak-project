@@ -1,0 +1,5 @@
+model_checkpoint_path: "/home/anussank/shavak/adGen/exp_1/checkpoints/model-4"
+all_model_checkpoint_paths: "/home/anussank/shavak/adGen/exp_1/checkpoints/model-1"
+all_model_checkpoint_paths: "/home/anussank/shavak/adGen/exp_1/checkpoints/model-2"
+all_model_checkpoint_paths: "/home/anussank/shavak/adGen/exp_1/checkpoints/model-3"
+all_model_checkpoint_paths: "/home/anussank/shavak/adGen/exp_1/checkpoints/model-4"

@@ -1,0 +1,598 @@
+_______________________________________________________________________________
+Sci-Fi
+_______________________________________________________________________________
+seoul 17
+partitioning 15
+commission 13
+arise 8
+mad 8
+virginia 5
+trinket 5
+manages 4
+announcement 4
+cronies 4
+authors 4
+exorcised 3
+rhythm 3
+priesthood 3
+survive 3
+lends 3
+shinas 3
+fails 3
+altercation 3
+ensures 3
+_______________________________________________________________________________
+Crime
+_______________________________________________________________________________
+partitioning 13
+seoul 11
+mad 11
+kangaroo 9
+exorcised 8
+compassionate 8
+commission 8
+magritte 8
+arise 8
+licenses 7
+virginia 6
+survive 6
+buggy 6
+mortician 6
+manages 5
+impoverished 5
+cronies 5
+outside 5
+sharp 5
+turner 5
+_______________________________________________________________________________
+Romance
+_______________________________________________________________________________
+partitioning 21
+commission 18
+seoul 16
+mad 16
+cronies 12
+exorcised 9
+manages 7
+virginia 7
+crashes 7
+corregidor 6
+keg 6
+cassie 6
+lends 5
+subdued 5
+neutron 5
+flaming 4
+narcissistic 4
+kangaroo 4
+changed 4
+thankful 4
+_______________________________________________________________________________
+Animation
+_______________________________________________________________________________
+partitioning 27
+seoul 20
+mad 14
+cronies 12
+commission 8
+flaming 7
+exorcised 6
+magritte 6
+arise 6
+crashes 6
+surrealist 5
+corregidor 5
+impoverished 5
+endangering 5
+wolfe 5
+survive 5
+scullery 5
+buggy 5
+preparing 4
+lends 4
+_______________________________________________________________________________
+Music
+_______________________________________________________________________________
+seoul 22
+partitioning 21
+commission 16
+cronies 14
+exorcised 11
+mad 9
+flaming 8
+crashes 8
+corregidor 7
+manages 6
+arise 6
+virginia 5
+altercation 5
+thankful 5
+announcement 4
+impoverished 4
+boundlessly 4
+bestowed 4
+outdoor 3
+surrealist 3
+_______________________________________________________________________________
+Comedy
+_______________________________________________________________________________
+mad 41
+seoul 20
+partitioning 18
+commission 9
+buggy 7
+impoverished 6
+cronies 6
+lends 5
+outside 5
+subdued 5
+estimable 5
+kitschy 5
+arise 5
+manicurist 4
+glazer 4
+insurgent 4
+survive 4
+crossroad 4
+magritte 4
+fonda 4
+_______________________________________________________________________________
+War
+_______________________________________________________________________________
+mad 33
+partitioning 18
+seoul 15
+virginia 7
+impoverished 7
+arise 7
+lends 6
+cronies 6
+revengeful 6
+commission 6
+manages 5
+gym 5
+magritte 4
+exorcised 4
+ensures 4
+subdued 4
+changed 4
+survive 4
+surrealist 3
+manicurist 3
+_______________________________________________________________________________
+Horror
+_______________________________________________________________________________
+partitioning 25
+seoul 15
+magritte 10
+commission 7
+mad 7
+revengeful 6
+impoverished 6
+whimsical 6
+exorcised 5
+compassionate 5
+cronies 5
+survive 5
+arise 5
+flaming 5
+crashes 5
+trinket 4
+subdued 4
+particular 4
+bestowed 4
+devonshire 3
+_______________________________________________________________________________
+Film-Noir
+_______________________________________________________________________________
+partitioning 21
+exorcised 15
+seoul 14
+commission 13
+arise 12
+mad 11
+cronies 8
+corregidor 7
+manages 6
+subdued 6
+fundraising 6
+magritte 6
+flaming 6
+shadows 5
+altercation 5
+virginia 5
+revengeful 4
+fonda 4
+pivotal 4
+particular 3
+_______________________________________________________________________________
+Adventure
+_______________________________________________________________________________
+mad 47
+commission 17
+manages 14
+virginia 14
+partitioning 12
+cronies 10
+seoul 9
+arise 7
+impoverished 6
+keg 6
+exorcised 5
+altercation 5
+submitting 5
+piston 4
+shadows 4
+crashes 4
+outside 4
+survive 4
+rejoins 4
+narcissistic 4
+_______________________________________________________________________________
+News
+_______________________________________________________________________________
+partitioning 16
+arise 13
+seoul 13
+commission 10
+virginia 9
+manages 7
+mad 7
+cronies 6
+lends 6
+bedraggled 6
+impoverished 6
+flaming 6
+shadows 5
+compassionate 5
+revengeful 5
+survive 5
+magritte 5
+exorcised 4
+fundraising 4
+scullery 4
+_______________________________________________________________________________
+Reality-TV
+_______________________________________________________________________________
+partitioning 24
+seoul 23
+mad 12
+subdued 8
+whimsical 7
+commission 7
+exorcised 7
+arise 7
+cronies 6
+survive 6
+altercation 5
+virginia 5
+shadows 5
+compassionate 5
+pivotal 5
+manages 4
+magritte 4
+kitschy 4
+announcement 3
+impoverished 3
+_______________________________________________________________________________
+Thriller
+_______________________________________________________________________________
+partitioning 19
+seoul 15
+mad 14
+commission 12
+virginia 7
+cronies 7
+exorcised 6
+pivotal 6
+manages 5
+biding 5
+boundlessly 5
+keg 5
+lends 5
+loaded 5
+gym 5
+announcement 4
+impoverished 4
+grabs 4
+crashes 4
+altercation 4
+_______________________________________________________________________________
+Western
+_______________________________________________________________________________
+seoul 23
+partitioning 18
+mad 15
+arise 12
+cronies 10
+commission 10
+manages 9
+virginia 9
+lends 7
+exorcised 6
+impoverished 5
+announcement 4
+shadows 3
+crashes 3
+trinket 3
+survive 3
+keg 3
+rejoins 3
+subdued 3
+changed 3
+_______________________________________________________________________________
+Mystery
+_______________________________________________________________________________
+mad 23
+partitioning 17
+seoul 14
+commission 10
+impoverished 8
+lends 6
+magritte 6
+flaming 6
+revengeful 5
+buggy 5
+crashes 5
+particular 4
+exorcised 4
+outside 4
+whimsical 4
+solvency 4
+tartuffe 4
+kitschy 4
+arise 4
+devonshire 3
+_______________________________________________________________________________
+Short
+_______________________________________________________________________________
+seoul 24
+mad 20
+partitioning 18
+arise 14
+cronies 11
+commission 8
+exorcised 7
+manages 6
+virginia 5
+flaming 5
+corregidor 4
+compassionate 4
+authors 3
+corner 3
+impoverished 3
+shadows 3
+unlike 3
+fails 3
+crashes 3
+kangaroo 3
+_______________________________________________________________________________
+Drama
+_______________________________________________________________________________
+partitioning 19
+seoul 19
+commission 10
+manicurist 9
+arise 9
+cronies 7
+exorcised 6
+subdued 6
+magritte 6
+compassionate 5
+manages 4
+racoons 4
+virginia 4
+revengeful 4
+mad 4
+devonshire 3
+authors 3
+insurgent 3
+fails 3
+altercation 3
+_______________________________________________________________________________
+Action
+_______________________________________________________________________________
+commission 23
+partitioning 22
+seoul 19
+cronies 9
+manages 7
+announcement 7
+keg 7
+cassie 7
+lends 6
+crashes 6
+thankful 6
+exorcised 6
+mad 6
+corregidor 5
+preparing 5
+rejoins 5
+changed 5
+loaded 5
+gym 5
+flaming 5
+_______________________________________________________________________________
+Documentary
+_______________________________________________________________________________
+seoul 26
+partitioning 18
+mad 16
+manages 9
+virginia 9
+commission 9
+arise 9
+impoverished 4
+exorcised 4
+altercation 4
+shadows 4
+cronies 4
+fails 4
+keg 4
+subdued 4
+changed 4
+magritte 4
+flaming 3
+surrealist 3
+ski 3
+_______________________________________________________________________________
+Musical
+_______________________________________________________________________________
+seoul 24
+partitioning 22
+mad 17
+arise 11
+manages 7
+impoverished 7
+cronies 7
+virginia 7
+revengeful 6
+spares 6
+fundraising 6
+exorcised 5
+subdued 5
+commission 5
+magritte 5
+crashes 5
+compassionate 4
+altercation 4
+survive 4
+particular 3
+_______________________________________________________________________________
+History
+_______________________________________________________________________________
+seoul 20
+mad 20
+partitioning 17
+impoverished 10
+cronies 9
+commission 8
+magritte 7
+arise 6
+announcement 5
+exorcised 5
+compassionate 5
+subdued 5
+manages 4
+revengeful 4
+115 4
+outside 4
+altercation 4
+whimsical 4
+kitschy 4
+flaming 4
+_______________________________________________________________________________
+Family
+_______________________________________________________________________________
+seoul 25
+partitioning 21
+virginia 11
+commission 10
+arise 10
+manages 9
+impoverished 9
+lose 6
+outside 6
+subdued 6
+buggy 6
+mad 6
+authors 5
+exorcised 5
+fails 5
+magritte 5
+ski 4
+cronies 4
+kitschy 4
+changed 4
+_______________________________________________________________________________
+Fantasy
+_______________________________________________________________________________
+partitioning 21
+seoul 17
+mad 11
+manages 10
+virginia 10
+cronies 9
+commission 7
+arise 7
+revengeful 6
+magritte 6
+exorcised 6
+crashes 6
+impoverished 5
+flaming 5
+fails 4
+fundraising 4
+scullery 4
+devonshire 3
+particular 3
+corregidor 3
+_______________________________________________________________________________
+Game-Show
+_______________________________________________________________________________
+mad 24
+partitioning 15
+seoul 14
+commission 11
+exorcised 10
+cronies 9
+virginia 7
+magritte 7
+revengeful 6
+impoverished 6
+buggy 6
+outside 5
+manages 4
+announcement 4
+altercation 4
+changed 4
+arise 4
+pivotal 4
+neutron 4
+devonshire 3
+_______________________________________________________________________________
+Sport
+_______________________________________________________________________________
+partitioning 20
+seoul 17
+arise 13
+commission 10
+bedraggled 9
+survive 9
+manages 8
+magritte 7
+cronies 6
+revengeful 5
+impoverished 5
+virginia 5
+changed 5
+authors 4
+exorcised 4
+racoons 4
+shadows 4
+lends 4
+fails 4
+altercation 4
+_______________________________________________________________________________
+Biography
+_______________________________________________________________________________
+mad 37
+seoul 31
+partitioning 21
+commission 10
+virginia 9
+cronies 9
+manages 8
+exorcised 8
+kitschy 8
+impoverished 7
+arise 6
+crashes 6
+magritte 5
+flaming 5
+preparing 4
+outside 4
+altercation 4
+estimable 4
+scullery 4
+manicurist 4

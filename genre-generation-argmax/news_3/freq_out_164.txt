@@ -1,0 +1,69 @@
+_______________________________________________________________________________
+Politics
+_______________________________________________________________________________
+alabama 251
+standing 50
+rules 15
+trap 11
+whoops 7
+move 4
+heart 3
+harm 2
+kids 2
+acceptable 2
+co 1
+carter 1
+coup 1
+bouquet 1
+inconclusive 1
+270 1
+renewed 1
+britain 1
+identify 1
+extinctions 1
+_______________________________________________________________________________
+Entertainment
+_______________________________________________________________________________
+alabama 230
+standing 61
+move 11
+rules 11
+whoops 7
+heart 6
+trap 5
+austerity 3
+edit 3
+harm 2
+prompted 2
+coup 2
+carter 2
+courageous 2
+ingenious 1
+ripped 1
+270 1
+fortunes 1
+experts 1
+election 1
+_______________________________________________________________________________
+Science
+_______________________________________________________________________________
+alabama 258
+standing 43
+rules 12
+trap 8
+whoops 6
+inherited 4
+carter 3
+move 3
+edward 3
+unfavorably 2
+1920 2
+courageous 2
+bot 2
+marriage 2
+options 2
+mickey 1
+beautiful 1
+fan 1
+ron 1
+grade 1

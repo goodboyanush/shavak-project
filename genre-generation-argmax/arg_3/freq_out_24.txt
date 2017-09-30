@@ -1,0 +1,598 @@
+_______________________________________________________________________________
+Sci-Fi
+_______________________________________________________________________________
+richler 255
+deteriorate 44
+snowboard 17
+hypnotized 7
+11 6
+hokusai 3
+reprises 3
+minstrels 3
+indulges 2
+nazi 2
+betterment 2
+promising 2
+discouraged 2
+researchers 2
+superlative 1
+whitey 1
+ali 1
+cornwallis 1
+prosecuting 1
+cadences 1
+_______________________________________________________________________________
+Crime
+_______________________________________________________________________________
+richler 222
+deteriorate 60
+snowboard 23
+hypnotized 9
+noseless 4
+hokusai 4
+11 4
+minstrels 4
+whitey 3
+watches 3
+promising 3
+blanketed 2
+reprises 2
+saul 2
+battlefield 1
+barely 1
+rebels 1
+polar 1
+loveless 1
+grabs 1
+_______________________________________________________________________________
+Romance
+_______________________________________________________________________________
+richler 233
+deteriorate 59
+snowboard 19
+blanketed 12
+hypnotized 6
+hokusai 4
+promising 4
+noseless 3
+discouraged 3
+11 3
+awareness 2
+base 2
+worked 2
+saul 2
+burma 1
+crazy 1
+colorado 1
+helper 1
+december 1
+lawful 1
+_______________________________________________________________________________
+Animation
+_______________________________________________________________________________
+richler 223
+deteriorate 57
+snowboard 17
+blanketed 12
+hokusai 5
+11 5
+worked 3
+watches 2
+storming 2
+noseless 2
+intolerance 2
+hypnotized 2
+minstrels 2
+gathering 1
+purify 1
+nephews 1
+formerly 1
+zoned 1
+minion 1
+fulminations 1
+_______________________________________________________________________________
+Music
+_______________________________________________________________________________
+richler 254
+deteriorate 45
+snowboard 22
+discouraged 5
+hypnotized 4
+promising 4
+blanketed 3
+noseless 3
+hokusai 2
+nazi 2
+reprises 2
+experiment 2
+intolerance 2
+betterment 2
+11 2
+buchenwald 1
+whitey 1
+transgressed 1
+labrador 1
+diamond 1
+_______________________________________________________________________________
+Comedy
+_______________________________________________________________________________
+richler 241
+deteriorate 48
+snowboard 22
+blanketed 11
+promising 4
+discouraged 4
+frozen 4
+11 3
+whitey 2
+crazy 2
+hokusai 2
+assessing 2
+murky 2
+awareness 2
+noseless 2
+hypnotized 2
+minstrels 2
+dictating 1
+regulates 1
+fabricates 1
+_______________________________________________________________________________
+War
+_______________________________________________________________________________
+richler 220
+deteriorate 62
+snowboard 23
+hypnotized 8
+blanketed 5
+storming 4
+11 4
+hokusai 3
+acid 3
+noseless 3
+reprises 2
+qualify 2
+betterment 2
+saul 2
+unexplored 1
+whitey 1
+sticks 1
+colt 1
+indulges 1
+fabricated 1
+_______________________________________________________________________________
+Horror
+_______________________________________________________________________________
+richler 250
+deteriorate 35
+snowboard 17
+blanketed 8
+hypnotized 7
+discouraged 4
+qualify 3
+saul 3
+indulges 2
+tyro 2
+intolerance 2
+plunge 2
+noseless 2
+whitey 1
+belligerence 1
+brisbane 1
+ringer 1
+insanely 1
+validates 1
+sensation 1
+_______________________________________________________________________________
+Film-Noir
+_______________________________________________________________________________
+richler 212
+deteriorate 66
+snowboard 21
+promising 7
+acid 5
+blanketed 5
+noseless 4
+hokusai 3
+hypnotized 3
+whitey 2
+storming 2
+reprises 2
+affirming 2
+negatives 2
+11 2
+dallas 2
+awareness 2
+minstrels 2
+rustlers 1
+incarnate 1
+_______________________________________________________________________________
+Adventure
+_______________________________________________________________________________
+richler 236
+deteriorate 59
+snowboard 21
+blanketed 10
+whitey 3
+watches 3
+11 3
+hypnotized 3
+hokusai 2
+dissertation 2
+noseless 2
+intolerance 2
+advocates 2
+awareness 2
+promising 2
+emerge 1
+livestock 1
+humiliation 1
+populated 1
+dissolution 1
+_______________________________________________________________________________
+News
+_______________________________________________________________________________
+richler 233
+deteriorate 53
+snowboard 25
+hokusai 5
+11 5
+noseless 3
+promising 3
+acid 2
+caped 2
+feigning 2
+qualify 2
+insisting 2
+worked 2
+spouse 2
+hypnotized 2
+minstrels 2
+roebuck 1
+neighbors 1
+tattered 1
+blanketed 1
+_______________________________________________________________________________
+Reality-TV
+_______________________________________________________________________________
+richler 253
+deteriorate 42
+snowboard 24
+11 4
+hypnotized 4
+promising 3
+hokusai 3
+qualify 3
+indulges 2
+blanketed 2
+flabby 2
+noseless 2
+stubborn 1
+whitey 1
+scribbles 1
+obliterated 1
+watches 1
+escaped 1
+productions 1
+affiliated 1
+_______________________________________________________________________________
+Thriller
+_______________________________________________________________________________
+richler 184
+deteriorate 88
+snowboard 27
+hypnotized 9
+hokusai 7
+nazi 6
+11 6
+whitey 3
+noseless 3
+promising 2
+listless 2
+wielding 2
+decorum 2
+followup 2
+ratatouille 2
+introducing 1
+escadrille 1
+effortless 1
+primeval 1
+watches 1
+_______________________________________________________________________________
+Western
+_______________________________________________________________________________
+richler 236
+deteriorate 49
+snowboard 15
+hypnotized 8
+noseless 6
+hokusai 4
+reprises 4
+qualify 4
+whitey 3
+blanketed 3
+treated 3
+intolerance 2
+countered 2
+discouraged 2
+11 2
+bile 2
+mousy 1
+transcend 1
+tailed 1
+squirting 1
+_______________________________________________________________________________
+Mystery
+_______________________________________________________________________________
+richler 247
+deteriorate 52
+snowboard 20
+promising 7
+noseless 5
+whitey 3
+hokusai 2
+storming 2
+11 2
+blanketed 2
+intolerance 2
+wrist 2
+worked 2
+bile 2
+hypnotized 2
+saul 2
+treated 2
+prosecute 1
+veracity 1
+watchdogs 1
+_______________________________________________________________________________
+Short
+_______________________________________________________________________________
+richler 265
+deteriorate 31
+snowboard 17
+hypnotized 8
+reprises 5
+blanketed 5
+noseless 4
+11 4
+intolerance 3
+restrained 3
+promising 3
+hokusai 2
+armor 2
+minstrels 2
+discouraged 2
+eyebrows 1
+whitey 1
+risky 1
+insolent 1
+jones 1
+_______________________________________________________________________________
+Drama
+_______________________________________________________________________________
+richler 228
+deteriorate 55
+snowboard 24
+blanketed 13
+hokusai 5
+promising 5
+hypnotized 4
+watches 3
+noseless 3
+11 3
+suns 2
+flabby 2
+experiment 2
+minstrels 2
+1930s 1
+whitey 1
+trench 1
+phenomena 1
+ii 1
+want 1
+_______________________________________________________________________________
+Action
+_______________________________________________________________________________
+richler 257
+deteriorate 34
+snowboard 14
+feigning 5
+hypnotized 5
+11 4
+promising 4
+saul 3
+hokusai 2
+reprises 2
+caped 2
+intolerance 2
+discouraged 2
+insisting 2
+passenger 1
+tagged 1
+embarrassing 1
+adroit 1
+persecutors 1
+commissions 1
+_______________________________________________________________________________
+Documentary
+_______________________________________________________________________________
+richler 266
+deteriorate 33
+snowboard 16
+hypnotized 9
+blanketed 6
+reprises 3
+intolerance 3
+noseless 3
+11 3
+unconnected 2
+flabby 2
+plunge 2
+feigning 2
+tailed 2
+reset 1
+atmosphere 1
+covert 1
+loveless 1
+watches 1
+hokusai 1
+_______________________________________________________________________________
+Musical
+_______________________________________________________________________________
+richler 226
+deteriorate 63
+snowboard 26
+hokusai 5
+betterment 5
+11 4
+hypnotized 4
+promising 3
+minstrels 3
+crazy 2
+blanketed 2
+tsunami 2
+feigning 2
+frozen 2
+listless 2
+saul 2
+chowder 1
+motivation 1
+own 1
+canoe 1
+_______________________________________________________________________________
+History
+_______________________________________________________________________________
+richler 254
+deteriorate 45
+snowboard 15
+hypnotized 7
+hokusai 4
+nazi 4
+storming 3
+reprises 3
+noseless 3
+11 3
+promising 3
+frames 2
+intolerance 2
+minstrels 2
+saul 2
+ardennes 1
+whitey 1
+tempts 1
+superintendent 1
+interfaith 1
+_______________________________________________________________________________
+Family
+_______________________________________________________________________________
+richler 232
+deteriorate 53
+snowboard 17
+promising 7
+hypnotized 6
+hokusai 3
+noseless 3
+betterment 3
+11 3
+bile 3
+schlep 3
+intolerance 2
+reprises 2
+feigning 2
+insightful 1
+holder 1
+sticks 1
+thwarting 1
+imposing 1
+fingerling 1
+_______________________________________________________________________________
+Fantasy
+_______________________________________________________________________________
+richler 197
+deteriorate 62
+snowboard 16
+listless 9
+blanketed 6
+hypnotized 6
+awareness 5
+11 5
+bile 5
+hokusai 3
+storming 2
+reprises 2
+caped 2
+saul 2
+productions 2
+planner 2
+montreal 2
+discouraged 2
+protocol 1
+livestock 1
+_______________________________________________________________________________
+Game-Show
+_______________________________________________________________________________
+richler 230
+deteriorate 52
+snowboard 22
+hypnotized 6
+hokusai 5
+promising 5
+11 4
+noseless 4
+whitey 3
+saul 3
+storming 2
+nazi 2
+drink 2
+cunningham 1
+perverts 1
+lace 1
+spiritual 1
+intolerance 1
+techie 1
+watchdogs 1
+_______________________________________________________________________________
+Sport
+_______________________________________________________________________________
+richler 212
+deteriorate 74
+snowboard 28
+11 8
+reprises 6
+hypnotized 5
+saul 5
+hokusai 4
+noseless 4
+promising 3
+whitey 2
+sharp 2
+worked 2
+examiner 1
+ron 1
+armies 1
+letdown 1
+mogul 1
+unofficially 1
+declares 1
+_______________________________________________________________________________
+Biography
+_______________________________________________________________________________
+richler 210
+deteriorate 66
+snowboard 29
+11 8
+hypnotized 8
+hokusai 6
+nazi 4
+blanketed 4
+noseless 4
+whitey 2
+reprises 2
+handcuffed 2
+qualify 2
+witticisms 2
+minstrels 2
+crucify 1
+camaraderie 1
+bicycle 1
+wakes 1
+insurgency 1

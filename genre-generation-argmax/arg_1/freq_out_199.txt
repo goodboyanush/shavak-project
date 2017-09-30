@@ -1,0 +1,598 @@
+_______________________________________________________________________________
+Sci-Fi
+_______________________________________________________________________________
+seoul 33
+partitioning 19
+exorcised 15
+commission 10
+cronies 9
+citizenship 9
+mad 9
+josh 8
+lends 8
+arise 8
+pivotal 8
+manages 7
+bedraggled 7
+survive 7
+virginia 7
+neutron 6
+subdued 5
+changed 5
+fundraising 5
+announcement 4
+_______________________________________________________________________________
+Crime
+_______________________________________________________________________________
+seoul 36
+partitioning 21
+lends 18
+mad 16
+cronies 14
+changed 8
+ponies 7
+exorcised 6
+fundraising 6
+devonshire 5
+bedraggled 5
+magritte 5
+announcement 4
+revengeful 4
+virginia 4
+rejoins 4
+subdued 4
+rated 4
+hunters 4
+survive 4
+_______________________________________________________________________________
+Romance
+_______________________________________________________________________________
+seoul 33
+partitioning 24
+exorcised 12
+lends 11
+pivotal 10
+virginia 8
+commission 7
+citizenship 7
+mad 7
+arise 6
+manages 5
+josh 5
+compassionate 5
+cronies 5
+bedraggled 5
+survive 5
+gym 5
+magritte 5
+ponies 5
+devonshire 4
+_______________________________________________________________________________
+Animation
+_______________________________________________________________________________
+seoul 35
+partitioning 19
+commission 15
+exorcised 13
+arise 12
+lends 10
+mad 9
+manages 8
+cronies 7
+survive 6
+virginia 5
+altercation 5
+bedraggled 5
+fundraising 5
+magritte 5
+citizenship 5
+flaming 5
+devonshire 4
+josh 4
+gym 4
+_______________________________________________________________________________
+Music
+_______________________________________________________________________________
+seoul 37
+partitioning 18
+mad 16
+virginia 11
+lends 10
+commission 9
+exorcised 8
+cronies 8
+arise 8
+manages 7
+compassionate 7
+announcement 5
+bedraggled 5
+survive 5
+particular 5
+kitschy 5
+pilgrimage 5
+kinsey 4
+neutron 4
+altercation 4
+_______________________________________________________________________________
+Comedy
+_______________________________________________________________________________
+seoul 45
+partitioning 24
+cronies 15
+lends 13
+exorcised 12
+arise 8
+ponies 8
+announcement 6
+changed 6
+commission 6
+kitschy 6
+pilgrimage 6
+piston 5
+fundraising 5
+survive 5
+submitting 5
+flaming 5
+pivotal 5
+crashes 5
+mad 5
+_______________________________________________________________________________
+War
+_______________________________________________________________________________
+seoul 41
+partitioning 22
+lends 14
+mad 14
+cronies 11
+arise 8
+impoverished 7
+exorcised 7
+announcement 6
+changed 6
+pilgrimage 6
+particular 5
+virginia 5
+commission 5
+subdued 5
+compassionate 4
+whimsical 4
+survive 4
+kitschy 4
+neutron 4
+_______________________________________________________________________________
+Horror
+_______________________________________________________________________________
+seoul 39
+partitioning 21
+lends 13
+exorcised 10
+cronies 10
+ponies 9
+compassionate 7
+changed 7
+mad 7
+kitschy 6
+josh 5
+gym 5
+virginia 5
+impoverished 4
+altercation 4
+subdued 4
+fundraising 4
+commission 4
+magritte 4
+fonda 4
+_______________________________________________________________________________
+Film-Noir
+_______________________________________________________________________________
+seoul 29
+partitioning 22
+exorcised 10
+virginia 9
+pivotal 9
+cronies 8
+lends 8
+citizenship 8
+subdued 7
+arise 7
+commission 6
+mad 6
+josh 5
+compassionate 5
+bedraggled 5
+survive 5
+ponies 4
+manages 3
+crossroad 3
+insurgent 3
+_______________________________________________________________________________
+Adventure
+_______________________________________________________________________________
+seoul 34
+partitioning 19
+lends 13
+virginia 10
+cronies 9
+commission 7
+arise 7
+announcement 6
+impoverished 6
+sharp 6
+pilgrimage 6
+exorcised 5
+burst 5
+percentage 5
+manages 4
+subdued 4
+neutron 4
+fundraising 3
+shadows 3
+kangaroo 3
+_______________________________________________________________________________
+News
+_______________________________________________________________________________
+seoul 49
+partitioning 20
+cronies 15
+lends 15
+commission 9
+exorcised 7
+kitschy 7
+mad 6
+fundraising 5
+survive 5
+devonshire 4
+particular 4
+announcement 4
+impoverished 4
+virginia 4
+compassionate 4
+ponies 4
+bedraggled 4
+aural 4
+patron 4
+_______________________________________________________________________________
+Reality-TV
+_______________________________________________________________________________
+seoul 35
+partitioning 22
+mad 20
+exorcised 13
+lends 12
+neutron 8
+cronies 7
+fundraising 7
+announcement 6
+changed 6
+pivotal 6
+kinsey 5
+virginia 5
+commission 5
+gym 5
+kitschy 5
+citizenship 5
+flaming 5
+pilgrimage 5
+manicurist 4
+_______________________________________________________________________________
+Thriller
+_______________________________________________________________________________
+seoul 29
+mad 25
+partitioning 17
+exorcised 15
+virginia 14
+commission 10
+arise 8
+compassionate 7
+devonshire 6
+manages 6
+josh 6
+cronies 6
+lends 6
+pivotal 6
+particular 5
+magritte 5
+citizenship 5
+corregidor 4
+manicurist 4
+insurgent 4
+_______________________________________________________________________________
+Western
+_______________________________________________________________________________
+seoul 30
+partitioning 18
+exorcised 12
+arise 11
+virginia 10
+cronies 8
+commission 8
+lends 7
+manages 6
+josh 6
+flaming 6
+revengeful 5
+infiltrated 5
+magritte 5
+pivotal 5
+mad 5
+impoverished 4
+shadows 4
+insurgent 4
+compassionate 4
+_______________________________________________________________________________
+Mystery
+_______________________________________________________________________________
+seoul 33
+partitioning 25
+lends 15
+cronies 12
+exorcised 9
+ponies 9
+arise 8
+virginia 7
+subdued 6
+announcement 5
+impoverished 5
+fundraising 5
+particular 5
+burst 4
+infiltrated 4
+changed 4
+ribbon 4
+commission 4
+gym 4
+unlike 4
+_______________________________________________________________________________
+Short
+_______________________________________________________________________________
+seoul 40
+partitioning 23
+commission 13
+cronies 12
+exorcised 9
+virginia 9
+lends 9
+mad 8
+manages 7
+arise 6
+ponies 6
+flaming 5
+racoons 5
+kitschy 5
+neutron 4
+burst 4
+aural 4
+buggy 4
+kinsey 3
+corregidor 3
+_______________________________________________________________________________
+Drama
+_______________________________________________________________________________
+seoul 39
+partitioning 26
+exorcised 15
+lends 14
+cronies 11
+pivotal 9
+mad 8
+citizenship 7
+josh 6
+infiltrated 6
+arise 6
+ponies 6
+bedraggled 5
+survive 5
+changed 5
+flaming 5
+announcement 4
+manicurist 4
+virginia 4
+insurgent 4
+_______________________________________________________________________________
+Action
+_______________________________________________________________________________
+seoul 40
+partitioning 25
+lends 14
+cronies 12
+exorcised 11
+virginia 8
+pivotal 8
+announcement 7
+arise 7
+mad 7
+compassionate 6
+citizenship 6
+pilgrimage 6
+josh 5
+changed 5
+kitschy 5
+flaming 5
+ponies 5
+neutron 4
+bedraggled 4
+_______________________________________________________________________________
+Documentary
+_______________________________________________________________________________
+seoul 47
+partitioning 23
+lends 12
+cronies 11
+virginia 10
+exorcised 7
+commission 7
+arise 6
+mad 6
+devonshire 5
+bedraggled 5
+survive 5
+magritte 5
+kitschy 5
+flaming 5
+crashes 5
+corregidor 4
+compassionate 4
+whimsical 4
+particular 4
+_______________________________________________________________________________
+Musical
+_______________________________________________________________________________
+seoul 37
+partitioning 25
+exorcised 13
+lends 10
+cronies 9
+mad 8
+ponies 7
+changed 6
+commission 6
+impoverished 6
+josh 5
+fundraising 5
+gym 5
+particular 5
+citizenship 5
+pivotal 5
+signs 4
+manicurist 4
+crossroad 4
+virginia 4
+_______________________________________________________________________________
+History
+_______________________________________________________________________________
+seoul 46
+mad 22
+partitioning 21
+lends 11
+cronies 10
+arise 9
+virginia 8
+commission 8
+exorcised 7
+kitschy 7
+subdued 7
+manages 6
+changed 5
+pivotal 5
+ponies 5
+announcement 4
+josh 4
+compassionate 4
+outdone 4
+citizenship 4
+_______________________________________________________________________________
+Family
+_______________________________________________________________________________
+seoul 32
+partitioning 19
+mad 16
+lends 12
+commission 12
+virginia 10
+exorcised 8
+arise 8
+changed 7
+manages 6
+cronies 6
+particular 6
+compassionate 5
+kitschy 5
+ponies 5
+kinsey 4
+burst 4
+piston 4
+buggy 4
+magritte 4
+_______________________________________________________________________________
+Fantasy
+_______________________________________________________________________________
+seoul 26
+partitioning 25
+mad 24
+exorcised 14
+lends 13
+cronies 10
+virginia 9
+ponies 8
+survive 7
+infiltrated 6
+arise 6
+pivotal 6
+announcement 5
+josh 5
+bedraggled 5
+fundraising 5
+submitting 5
+citizenship 5
+neutron 4
+ribbon 4
+_______________________________________________________________________________
+Game-Show
+_______________________________________________________________________________
+seoul 36
+partitioning 19
+lends 13
+cronies 12
+exorcised 11
+compassionate 7
+subdued 6
+flaming 6
+corregidor 5
+altercation 5
+fundraising 5
+revengeful 5
+magritte 5
+arise 5
+pilgrimage 5
+ponies 5
+announcement 4
+josh 4
+racoons 4
+virginia 4
+_______________________________________________________________________________
+Sport
+_______________________________________________________________________________
+seoul 44
+partitioning 22
+exorcised 15
+lends 11
+josh 8
+pivotal 8
+mad 8
+compassionate 7
+cronies 7
+neutron 7
+bedraggled 6
+survive 6
+citizenship 6
+arise 6
+burst 5
+altercation 5
+buggy 5
+kinsey 4
+virginia 4
+subdued 4
+_______________________________________________________________________________
+Biography
+_______________________________________________________________________________
+seoul 41
+partitioning 27
+exorcised 15
+lends 11
+mad 9
+compassionate 8
+fundraising 7
+cronies 7
+virginia 6
+magritte 6
+ponies 6
+announcement 5
+manicurist 5
+commission 5
+gym 5
+crashes 5
+infiltrated 4
+revengeful 4
+arise 4
+pivotal 4

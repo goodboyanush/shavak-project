@@ -1,0 +1,64 @@
+<tf.Variable 'embeddings_encoder/embeddings:0' shape=(23904, 300) dtype=float32_ref>
+<tf.Variable 'g_embedding_noise/Matrix:0' shape=(400, 300) dtype=float32_ref>
+<tf.Variable 'g_embedding_noise/bias:0' shape=(300,) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/gates/kernel:0' shape=(600, 600) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/gates/bias:0' shape=(600,) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/candidate/kernel:0' shape=(600, 300) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/candidate/bias:0' shape=(300,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3/W:0' shape=(3, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3/b:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4/W:0' shape=(4, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4/b:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5/W:0' shape=(5, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5/b:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'scores_flatten/Matrix:0' shape=(384, 1) dtype=float32_ref>
+<tf.Variable 'scores_flatten/bias:0' shape=(1,) dtype=float32_ref>
+<tf.Variable 'scores/Matrix:0' shape=(1, 1) dtype=float32_ref>
+<tf.Variable 'scores/bias:0' shape=(1,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3_1/W:0' shape=(3, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3_1/b:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4_1/W:0' shape=(4, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4_1/b:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5_1/W:0' shape=(5, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5_1/b:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'beta1_power:0' shape=() dtype=float32_ref>
+<tf.Variable 'beta2_power:0' shape=() dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3/W/Adam:0' shape=(3, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3/W/Adam_1:0' shape=(3, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3/b/Adam:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3/b/Adam_1:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4/W/Adam:0' shape=(4, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4/W/Adam_1:0' shape=(4, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4/b/Adam:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4/b/Adam_1:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5/W/Adam:0' shape=(5, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5/W/Adam_1:0' shape=(5, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5/b/Adam:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5/b/Adam_1:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3_1/W/Adam:0' shape=(3, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3_1/W/Adam_1:0' shape=(3, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3_1/b/Adam:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-3_1/b/Adam_1:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4_1/W/Adam:0' shape=(4, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4_1/W/Adam_1:0' shape=(4, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4_1/b/Adam:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-4_1/b/Adam_1:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5_1/W/Adam:0' shape=(5, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5_1/W/Adam_1:0' shape=(5, 300, 1, 128) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5_1/b/Adam:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'd_conv-maxpool-5_1/b/Adam_1:0' shape=(128,) dtype=float32_ref>
+<tf.Variable 'beta1_power_1:0' shape=() dtype=float32_ref>
+<tf.Variable 'beta2_power_1:0' shape=() dtype=float32_ref>
+<tf.Variable 'g_embedding_noise/Matrix/Adam:0' shape=(400, 300) dtype=float32_ref>
+<tf.Variable 'g_embedding_noise/Matrix/Adam_1:0' shape=(400, 300) dtype=float32_ref>
+<tf.Variable 'g_embedding_noise/bias/Adam:0' shape=(300,) dtype=float32_ref>
+<tf.Variable 'g_embedding_noise/bias/Adam_1:0' shape=(300,) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/gates/kernel/Adam:0' shape=(600, 600) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/gates/kernel/Adam_1:0' shape=(600, 600) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/gates/bias/Adam:0' shape=(600,) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/gates/bias/Adam_1:0' shape=(600,) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/candidate/kernel/Adam:0' shape=(600, 300) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/candidate/kernel/Adam_1:0' shape=(600, 300) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/candidate/bias/Adam:0' shape=(300,) dtype=float32_ref>
+<tf.Variable 'g_rnn/gru_cell/candidate/bias/Adam_1:0' shape=(300,) dtype=float32_ref>
+
